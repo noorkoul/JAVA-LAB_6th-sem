@@ -1,3 +1,4 @@
+//same right most digit
 import java.util.Scanner;
 
 public class rightmost {

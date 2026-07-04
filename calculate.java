@@ -1,4 +1,4 @@
-//Print 
+//WAP to print sum,multiply,subtract,divide and remainder of two numbers
 import java.util.Scanner; 
 public class calculate {
     public static void main(String [] args)

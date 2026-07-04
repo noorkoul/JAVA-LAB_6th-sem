@@ -1,3 +1,4 @@
+//swap with two variables
 import java.util.Scanner; 
 public class swapp {
         public static void main(String[] args) {
